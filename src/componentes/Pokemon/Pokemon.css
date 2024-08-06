@@ -1,0 +1,35 @@
+.pokemon{
+    width: 280px;
+}
+
+.pokemon .cabecalho{
+    background-color: whitesmoke;
+    border-radius: 18px 18px 0px 0px;
+}
+
+.pokemon img {
+    width: 200px;
+    border-radius: 50%;
+    position: relative;
+    bottom: -50px;
+}
+
+.pokemon .rodape {
+    background: whitesmoke;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.00);
+    border-radius: 0px 0px 10px 10px;
+    padding-top: 45px;
+    padding-bottom: 20px;
+}
+
+.pokemon .rodape h5{
+    color: #6278f7;
+    font-size: 25px;
+    line-height: 22px;
+}
+
+.pokemon .rodape h6{
+
+    font-size: 20px;
+
+}
